@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038512776476",
+    "project_id": "medihub-974e4",
+    "storage_bucket": "medihub-974e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038512776476:android:1a3a2a1c0436c484a846d9",
+        "android_client_info": {
+          "package_name": "com.example.medihub_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbSwqTXYy1xm7cKzIDCQcF_YPhtFL7cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
